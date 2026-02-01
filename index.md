@@ -44,8 +44,8 @@ Pieceful Play is designed with privacy as a priority. We DO NOT:
                              
                               - ## Contact
                              
-                              - **Email**: [your email]
-                              - **Developer**: [Your Name]
+                              - **Email**: lechatelier.paradox@proton.me
+                              - **Developer**: Z
                              
                               - ---
 
